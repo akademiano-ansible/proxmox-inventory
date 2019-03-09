@@ -1,0 +1,16 @@
+{
+    "name": "akademiano/proxmox-inventory",
+    "description": "Inventory vm from Proxmox to Ansible",
+    "type": "project",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Vasiliy Shvakin",
+            "email": "mrdatamapper@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "zzantares/proxmoxve": "~4.0"
+    }
+}
